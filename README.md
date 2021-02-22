@@ -26,7 +26,9 @@
 <br />
 <br />
 <hr />
+
 ## Stats 
+
 <a href="#stats">
 <img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
