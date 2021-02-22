@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif) (https://media.giphy.com/media/uzSqOMufuduTu/giphy.gif)
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif) ![](https://media.giphy.com/media/uzSqOMufuduTu/giphy.gif)
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
 - 🌱 I’m currently learning React and Golang
