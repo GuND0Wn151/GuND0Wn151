@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![]https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif
+![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
