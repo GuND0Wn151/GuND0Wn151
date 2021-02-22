@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/uzSqOMufuduTu/giphy.gif" width="29px"  height="40"/>
+![](https://media.giphy.com/media/uzSqOMufuduTu/giphy.gif)
 
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
