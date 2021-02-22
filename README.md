@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**GuND0Wn151/GuND0Wn151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="29px">
-Here are some ideas to get you started:
 
+<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="29px">
+
+## About Me
 - 🔭 I’m currently working on Improving my Coding skills
 - 🌱 I’m currently learning React-Natic
 - 👯 I’m looking to collaborate on Ctf's,and Projects
