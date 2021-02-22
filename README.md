@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 ![](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
-
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
 - 🌱 I’m currently learning React-Natic
-- 👯 I’m looking to collaborate on Ctf's,and Projects
+- 👯 I’m looking to collaborate on Ctf's and Projects
+- 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/GuND0Wn151/GuND0Wn151/issues)
-- ⚡ Fun fact: Gaming is Addictive 
+- 😄 Kinda Anime Addict(Fav: Naruto)🤗
+- ⚡ Fun fact: Gaming is Addictive 🤗
 
 <br />
 <br />
