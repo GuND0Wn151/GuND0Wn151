@@ -10,7 +10,9 @@
 - 💬 Ask me about anything [here](https://github.com/GuND0Wn151/GuND0Wn151/issues)
 - ⚡ Fun fact: Gaming is Addictive 
 
-
+<br />
+<br />
+<hr />
 
 **Languages and Tools:**  
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" width="40px" height="40" />
@@ -21,7 +23,9 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40px" height="40"/> 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40px" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40px" height="40"/>
-
+<br />
+<br />
+<hr />
 ## Stats 
 <a href="#stats">
 <img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=tokyonight" />
