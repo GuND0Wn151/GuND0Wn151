@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://media.giphy.com/media/uzSqOMufuduTu/giphy.gif)
-[![Spotify](https://novatorem.rajchowdhury420.vercel.app//api/spotify)](https://open.spotify.com/user/mhxgsr72l5gujt6pyif051vw7)
+
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
 - 🌱 I’m currently learning React and Golang
