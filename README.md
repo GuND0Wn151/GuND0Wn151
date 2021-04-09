@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Ctf's and Projects
 - 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/GuND0Wn151/GuND0Wn151/issues)
-- 😄 Kinda Anime Addict(Fav: Naruto)🤗
+- 😄 Kinda Games Addict(Fav: Csgo,Minecraft)🤗
 - ⚡ Fun fact: Gaming is Addictive 🤗
 
 <br />
