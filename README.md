@@ -3,11 +3,12 @@
 
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
-- 🌱 I’m currently learning React and Golang
+- ⚡ Currently Working as a intern at Ekal Shiksha
+- 🌱 I’m currently learning WebTechnolgies and DevOps
 - 👯 I’m looking to collaborate on Ctf's and Projects
 - 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/GuND0Wn151/GuND0Wn151/issues)
-- 😄 Kinda Games Addict(Fav: Csgo,Minecraft)🤗
+- 😄 Kinda Games Addict(Fav: Csgo,Minecraft,Rainbow Six Seige)🤗
 - ⚡ Fun fact: Gaming is Addictive 🤗
 
 <br />
@@ -30,9 +31,10 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" alt="Krish's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=tokyonight" />
 </a>
   
 <a href="#stats">
-<img align="center" alt="Krish's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
+ 
