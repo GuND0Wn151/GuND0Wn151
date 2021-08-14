@@ -9,7 +9,7 @@
 - 🔭 I’m looking for help with career 🏢
 - 💬 Ask me about anything [here](https://github.com/GuND0Wn151/GuND0Wn151/issues)
 - 😄 Kinda Games Addict(Fav: Csgo,Minecraft,Rainbow Six Seige)🤗
-- ⚡ Fun fact: Gaming is Addictive 🤗
+- ⚡ Fun fact: You Need to Watch GOT If you Didnt🤗
 
 <br />
 <br />
