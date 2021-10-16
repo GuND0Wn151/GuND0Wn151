@@ -3,7 +3,6 @@
 
 ## About Me
 - 🔭 I’m currently working on Improving my Coding skills
-- ⚡ Currently Working as a intern at Ekal Shiksha
 - 🌱 I’m currently learning WebTechnolgies and DevOps
 - 👯 I’m looking to collaborate on Ctf's and Projects
 - 🔭 I’m looking for help with career 🏢
