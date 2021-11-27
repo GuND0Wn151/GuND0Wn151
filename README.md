@@ -41,10 +41,10 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=algolia" />
 </a>
   
 <a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=tokyonight" />
+<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=algolia" />
 </a>
  
