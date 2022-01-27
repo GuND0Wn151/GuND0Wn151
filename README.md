@@ -41,10 +41,8 @@
 ## Stats 
 
 <a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=GuND0Wn151&show_icons=true&count_private=true&theme=algolia" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GuND0Wn151&show_icons=true&include_all_commits=true&theme=tokyonight"  /></a><br />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" /></a>
 </a>
-  
-<a href="#stats">
-<img align="center" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&langs_count=8&theme=algolia" />
-</a>
+
  
