@@ -45,4 +45,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuND0Wn151&layout=compact&theme=tokyonight" />
 </a>
 
+
+###  Random Developer Memes!!!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
